@@ -1,0 +1,6 @@
+.mouseDoublePointer {
+  position: absolute;
+  width: 12px;
+  height: 19px;
+  background: url('chrome-extension://__MSG_@@extension_id__/cursor1.png');
+}
