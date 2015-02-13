@@ -1,0 +1,26 @@
+{
+  "name": "mouse-pointer-double-extension",
+  "version": "1.0.0",
+  "title": "Mouse Pointer Double",
+  "description": "Displays copy of the mouse pointer on the page. Intended for use with Chromecast.",
+  "author": "Riki Fridrich <riki@fczbkk.com> (http://fczbkk.com/)",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.1.0",
+    "grunt-coffeelint": "^0.0.13",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-conventional-changelog": "^1.1.0",
+    "grunt-cson": "^0.14.0",
+    "grunt-update-json": "^0.2.1",
+    "load-grunt-tasks": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fczbkk/Mouse-Pointer-Double.git"
+  },
+  "license": "MIT"
+}

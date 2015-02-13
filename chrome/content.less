@@ -1,0 +1,9 @@
+.mousePointerDouble {
+  position: absolute;
+  width: 12px;
+  height: 19px;
+  background: url('chrome-extension://__MSG_@@extension_id__/images/cursor.png');
+  // do not receive mouse events, otherwise it would block all mouse clicks
+  pointer-events: none;
+  z-index: 999999;
+}
